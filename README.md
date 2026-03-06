@@ -56,4 +56,3 @@ cd boint
 👨‍💻 Автор
 
 Александр Препелица – Frontend Developer
-Портфолио
