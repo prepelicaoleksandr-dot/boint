@@ -35,9 +35,9 @@
 ## 🛠 Стек технологий
 
 - HTML5  
-- CSS3 (Flexbox / Grid)  
+- CSS3 / SCSS  
 - JavaScript  
-- Деплой на Vercel  
+- Деплой на Vercel 
 
 ---
 
