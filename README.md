@@ -1,6 +1,6 @@
 # Boint – Product Page
 
-![Boint Preview](preview.png)  
+![Boint Preview]([preview.png](https://drive.google.com/drive/folders/1kLh8VQrWx9urMdyVylkY7c48T4uAsJ7p?hl=ru))  
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
