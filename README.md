@@ -41,21 +41,6 @@
 
 ---
 
-## 📂 Структура проекта
-
-
-boint/
-  index.html
-  preview.png
-  css/
-    style.css
-  js/
-    script.js
-  images/
-
-
----
-
 ## 💻 Запуск проекта локально
 
 1. Клонировать репозиторий:  
