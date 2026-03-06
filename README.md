@@ -45,12 +45,13 @@
 
 
 boint/
-├── index.html
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
-└── images/
+  index.html
+  preview.png
+  css/
+    style.css
+  js/
+    script.js
+  images/
 
 
 ---
